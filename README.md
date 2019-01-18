@@ -7,5 +7,5 @@ This is a project made from a full stack tutorial by Stephen Grider.
 
 Stack: Node/Express, MongoDB, React/Redux
 
-*Uses Google OAuth for login
-*Uses Stripe API for payments
+* Uses Google OAuth for login
+* Uses Stripe API for payments
