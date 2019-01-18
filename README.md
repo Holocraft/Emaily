@@ -5,4 +5,6 @@ This web app gives you the ability to get feedback from your users/customers via
 
 This is a project made from a full stack tutorial by Stephen Grider.
 
-Node/Express, MongoDB, React/Redux
+Stack: Node/Express, MongoDB, React/Redux
+
+Uses Google OAuth for login
